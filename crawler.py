@@ -9,6 +9,7 @@ from formatter import DumbWriter, AbstractFormatter
 from cStringIO import StringIO
 #from HTMLParser import HTMLParser
 
+
 class Retriever:
     '''
     responsibilities:
